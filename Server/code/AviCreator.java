@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
 
 import ch.randelshofer.media.avi.AVIOutputStream;
 
-// test by Shawn
+// commit upstream
 
 public class AviCreator extends Thread{
 	public int Header, Pictures;
