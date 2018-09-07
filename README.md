@@ -14,7 +14,9 @@ The server can send command package to our Amigo app to control the AmigoBot via
 * Send command package to connect with the Amigo app.
 * When open "Wifi定位" and moniter screen, the server will recieve the wifi information and image from our app.
 * The "Monitor" page can let our server control the AmigoBot completely.
-
+* The "Position&go"  has  two function, one is make the AmigoBot go to specific area, the other is to patrol  the entire room
+* In the path the AmigoBot would auto avoid obstacles by  senor of ultrasound and vision algorithm 
 ## Screenshot
 ![Image01](https://github.com/EricSyu/AmigoServer/blob/master/image/01.png?raw=true)
 ![Image02](https://github.com/EricSyu/AmigoServer/blob/master/image/02.png?raw=true)
+![Image03](https://imgur.com/a/Dp324bm)
