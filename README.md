@@ -19,4 +19,4 @@ The server can send command package to our Amigo app to control the AmigoBot via
 ## Screenshot
 ![Image01](https://github.com/EricSyu/AmigoServer/blob/master/image/01.png?raw=true)
 ![Image02](https://github.com/EricSyu/AmigoServer/blob/master/image/02.png?raw=true)
-![Image03](https://imgur.com/a/Dp324bm)
+![Imgur03](https://i.imgur.com/FKoEtTA.png)
